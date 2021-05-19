@@ -13,13 +13,14 @@ let songIndex = 0;
 
 // Songs info
 const songs = [
-  {
-    title: 'Ana Dmee',
-    artist: 'Free Palistine',
-    coverPath: 'assets/images/falas.png',
+   {
+    title: 'Brown Mundee',
+    artist: 'Punjabi song',
+    coverPath: 'assets/images/e2.jpg',
     discPath: 'assets/music/music7.mp3',
-    duration: '3:41',
+    duration: '4:28',
   },
+
 
   {
     title: 'Brown Mundee',
