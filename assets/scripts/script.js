@@ -14,9 +14,9 @@ let songIndex = 0;
 // Songs info
 const songs = [
    {
-    title: 'Brown Mundee',
-    artist: 'Punjabi song',
-    coverPath: 'assets/images/e2.jpg',
+    title: 'ana damee',
+    artist: 'PAKISTAN',
+    coverPath: 'assets/images/falas.png',
     discPath: 'assets/music/music7.mp3',
     duration: '4:28',
   },
