@@ -16,7 +16,7 @@ const songs = [
   {
     title: 'Ana Dmee',
     artist: 'Free Palistine',
-    coverPath: 'assets/images/falas.PNG',
+    coverPath: 'assets/images/falas.jpg',
     discPath: 'assets/music/music7.mp3',
     duration: '3:41',
   },
