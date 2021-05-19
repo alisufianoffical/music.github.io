@@ -15,10 +15,10 @@ let songIndex = 0;
 const songs = [
    {
     title: 'ana damee',
-    artist: 'PAKISTAN',
+    artist: 'By ali sufian',
     coverPath: 'assets/images/falas.png',
     discPath: 'assets/music/music7.mp3',
-    duration: '4:28',
+    duration: '3:42',
   },
 
 
